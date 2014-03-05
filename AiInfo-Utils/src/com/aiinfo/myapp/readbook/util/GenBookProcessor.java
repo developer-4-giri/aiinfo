@@ -28,8 +28,6 @@ public class GenBookProcessor {
 			bookRelProp = new Properties();
 			ClassLoader loader = Thread.currentThread().getContextClassLoader();           
 			InputStream stream = loader.getResourceAsStream(bookResourcesPath+"/decoration.properties");
-			System.out.println("stream" + stream);
-			
 			bookRelProp.load(stream);
 			
 		} catch (IOException e) {
