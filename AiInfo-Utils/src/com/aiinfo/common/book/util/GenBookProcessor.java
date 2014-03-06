@@ -1,4 +1,4 @@
-package com.aiinfo.myapp.readbook.util;
+package com.aiinfo.common.book.util;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -10,10 +10,10 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Properties;
 
-import com.aiinfo.myapp.readbook.model.BookInfo;
-import com.aiinfo.myapp.readbook.model.ChapterInfo;
-import com.aiinfo.myapp.readbook.model.LangNumber;
-import com.aiinfo.myapp.readbook.model.PageInfo;
+import com.aiinfo.common.book.model.BookInfo;
+import com.aiinfo.common.book.model.ChapterInfo;
+import com.aiinfo.common.book.model.LangNumber;
+import com.aiinfo.common.book.model.PageInfo;
 
 public class GenBookProcessor {
 

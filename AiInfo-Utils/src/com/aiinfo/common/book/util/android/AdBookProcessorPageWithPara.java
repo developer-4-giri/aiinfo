@@ -1,4 +1,4 @@
-package com.aiinfo.myapp.readbook.util.android;
+package com.aiinfo.common.book.util.android;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,10 +10,10 @@ import java.util.Properties;
 
 import org.apache.commons.lang3.SystemUtils;
 
-import com.aiinfo.myapp.readbook.model.BookInfo;
-import com.aiinfo.myapp.readbook.model.ChapterInfo;
-import com.aiinfo.myapp.readbook.model.LangNumber;
-import com.aiinfo.myapp.readbook.model.PageInfo;
+import com.aiinfo.common.book.model.BookInfo;
+import com.aiinfo.common.book.model.ChapterInfo;
+import com.aiinfo.common.book.model.LangNumber;
+import com.aiinfo.common.book.model.PageInfo;
 
 public class AdBookProcessorPageWithPara {
 

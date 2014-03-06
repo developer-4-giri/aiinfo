@@ -1,4 +1,4 @@
-package com.aiinfo.myapp.readbook.model;
+package com.aiinfo.common.book.model;
 
 import java.util.Arrays;
 
